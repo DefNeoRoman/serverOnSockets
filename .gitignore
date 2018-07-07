@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+serverOnSockets.iml
+src/test/
+target/
