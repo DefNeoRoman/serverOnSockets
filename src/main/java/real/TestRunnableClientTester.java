@@ -1,4 +1,4 @@
-package versionThree;
+package real;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -10,7 +10,7 @@ public class TestRunnableClientTester implements Runnable {
 
     public TestRunnableClientTester() {
         try {
-            socket = new Socket("localhost", 3345);
+            socket = new Socket("localhost", 5050);
             System.out.println("Client connected to socket");
             Thread.sleep(2000);
         } catch (Exception e) {

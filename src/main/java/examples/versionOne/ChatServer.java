@@ -1,4 +1,4 @@
-package versionOne;
+package examples.versionOne;
 
 import java.io.IOException;
 import java.net.ServerSocket;

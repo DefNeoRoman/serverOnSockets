@@ -1,4 +1,4 @@
-package versionTwo;
+package examples.versionOne.versionTwo;
 
 import java.io.*;
 import java.net.Socket;
